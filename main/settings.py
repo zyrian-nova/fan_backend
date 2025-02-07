@@ -142,9 +142,9 @@ REST_FRAMEWORK = {
     ]
 }
 
-# MIGRATION_MODULES = {
-#     "auth": None,
-#     "admin": None,
-#     "contenttypes": None,
-#     "sessions": None,
-# }
+MIGRATION_MODULES = {
+    "auth": None,
+    "admin": None,
+    "contenttypes": None,
+    "sessions": None,
+}
